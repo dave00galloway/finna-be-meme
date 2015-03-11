@@ -1,8 +1,8 @@
-var circle = { //Unsurprisingbehaviorofthis
-  radius: 6,
-  diameter : function () {
-        return this.radius *2;
-    }
-};    
+//var circle = { //Unsurprisingbehaviorofthis
+//  radius: 6,
+//  diameter : function () {
+//        return this.radius *2;
+//    }
+//};    
 
 
